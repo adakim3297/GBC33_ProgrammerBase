@@ -85,7 +85,7 @@ https://ccss17.netlify.app/programmerbase/01-day1/readme/
 
 ![git file lifecycle](https://git-scm.com/book/en/v2/images/lifecycle.png)
 
-### How to Pull Request 실습
+### How to Pull Request
 1. `github`에 있는 해당 주소를 본인 `github`로 `fork` 합니다.
     ![where_fork](img/ss_where_fork.png)
 2. fork 한 프로젝트를 현재 컴퓨터에서 작업하기 위해서 clone 합니다.
@@ -98,8 +98,7 @@ https://ccss17.netlify.app/programmerbase/01-day1/readme/
 
 ## 과제
 1. 교재 읽고 따라해보기 ch.3 ~ ch.4
-2. https://github.com/qpalzmm22/GBC32_ProgrammerBase.git fork하고 본인 이름 directory 안에 `hw2.md` 만들기 
-3. https://ccss17.netlify.app/programmerbase/02-day2/hw2/ 에 나와있는 과제 중 1를 조사하여 `hw2.md`에 이것 작성해서 본인 repository 에 push 한 후 qpalzmm22/GBC32_ProgrammerBase 에 `pull request` 하기
+2. https://github.com/qpalzmm22/GBC33_ProgrammerBase.git fork하고 본인 이름 directory 안에 `hw2.md` 만들고 https://ccss17.netlify.app/programmerbase/02-day2/hw2/에 나와있는 과제 중 1를 조사하여 `hw2.md`에 이것 작성해서 본인 repository 에 push 한 후 qpalzmm22/GBC33_ProgrammerBase 에 `pull request` 하기
 
 # Day 3
 
