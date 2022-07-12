@@ -44,3 +44,8 @@ JavaScript란?
 ---
 
 ![logo](https://blog.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif)
+
+---
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HGU-Emblem-eng2.png/150px-HGU-Emblem-eng2.png) 
+
