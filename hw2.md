@@ -49,3 +49,6 @@ JavaScript란?
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HGU-Emblem-eng2.png/150px-HGU-Emblem-eng2.png) 
 
+---
+![loogo](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbqlW6v%2Fbtrd0vsAS4z%2FOqErLW0I3rC67rpMjcJPBk%2Fimg.png)
+
