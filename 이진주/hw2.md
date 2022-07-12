@@ -43,7 +43,7 @@
 
 
 ## Top 3 Primary Operationg Systems
-![OSimg](https://joohyung.kim/linux-windows-mac-comparison/)
+![OSimg](https://velog.velcdn.com/images/gil0127/post/29973032-1228-4a16-b4bd-8bfca544d831/%EC%82%BC%EB%8C%80%EC%9E%A5.PNG)
 
 1. Windows (47.5%)
 2. MacOS (26.8%)
