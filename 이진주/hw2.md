@@ -39,7 +39,9 @@
 
 
 
-###Visual Studio Code(비쥬얼 스튜디오 코드)
+### Visual Studio Code(비쥬얼 스튜디오 코드)
+
+![vscode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
 
 
 
@@ -75,4 +77,7 @@
 >> GBC33 week3, programmerBase, HW2
 
 
->> [origin link](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools)
+>> [origin servey link](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools)
+
+
+>> [reference](https://www.44bits.io/ko/keyword/visual-studio-code)
