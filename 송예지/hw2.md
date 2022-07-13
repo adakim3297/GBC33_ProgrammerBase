@@ -5,7 +5,8 @@
 조사 결과 
 - All respondents: *JAVA SCRIPT (67.8%)*
 - Profssional Developers: *JAVA SCRIPT (69.7%)*
-![survery](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HGU-Emblem-eng2.png/150px-HGU-Emblem-eng2.png)
+- 
+![survery](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/Survey.png?raw=true)
 
 많이 쓰이는 이유 
 - **다양한 분야나 용도**로 사용되고 있음.
