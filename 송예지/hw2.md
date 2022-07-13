@@ -5,7 +5,6 @@
 조사 결과 
 - All respondents: *JAVA SCRIPT (67.8%)*
 - Profssional Developers: *JAVA SCRIPT (69.7%)*
-- 
 ![survery](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/Survey.png?raw=true)
 
 많이 쓰이는 이유 
