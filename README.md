@@ -85,7 +85,7 @@ https://ccss17.netlify.app/programmerbase/01-day1/readme/
 
 ![git file lifecycle](https://git-scm.com/book/en/v2/images/lifecycle.png)
 
-### How to Pull Request 실습
+### How to Pull Request
 1. `github`에 있는 해당 주소를 본인 `github`로 `fork` 합니다.
     ![where_fork](img/ss_where_fork.png)
 2. fork 한 프로젝트를 현재 컴퓨터에서 작업하기 위해서 clone 합니다.
@@ -98,16 +98,20 @@ https://ccss17.netlify.app/programmerbase/01-day1/readme/
 
 ## 과제
 1. 교재 읽고 따라해보기 ch.3 ~ ch.4
-2. https://github.com/qpalzmm22/GBC32_ProgrammerBase.git fork하고 본인 이름 directory 안에 `hw2.md` 만들기 
-3. https://ccss17.netlify.app/programmerbase/02-day2/hw2/ 에 나와있는 과제 중 1를 조사하여 `hw2.md`에 이것 작성해서 본인 repository 에 push 한 후 qpalzmm22/GBC32_ProgrammerBase 에 `pull request` 하기
+2. https://github.com/qpalzmm22/GBC33_ProgrammerBase.git fork하고 본인 이름 directory 안에 `hw2.md` 만들고 https://ccss17.netlify.app/programmerbase/02-day2/hw2/에 나와있는 과제 중 1를 조사하여 `hw2.md`에 이것 작성해서 본인 repository 에 push 한 후 qpalzmm22/GBC33_ProgrammerBase 에 `pull request` 하기
 
 # Day 3
 
 ## Vim, Tmux
 
+> vim 실습하실때 `:set number` 입력하시면 라인수가 나옵니다.
+
 ### Vim 3가지 모드
 
 ![Vim 3가지 모드](https://velog.velcdn.com/images%2Flegendre13%2Fpost%2Ffdb123f1-7493-43fa-96ca-04c58b9ba9fd%2Fimage.png)
+
+### 막혔을때 나오는 방법
+Vim 사용하시다가 도저히 나가지 못할때는 `ESC` 연타하시고 `:q!` 치시면 이때 까지 수정한게 적용이 안되고 나가집니다.
 
 ### Vim Extra 유용한 Command
 
