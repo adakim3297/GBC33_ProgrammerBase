@@ -104,9 +104,14 @@ https://ccss17.netlify.app/programmerbase/01-day1/readme/
 
 ## Vim, Tmux
 
+> vim 실습하실때 `:set number` 입력하시면 라인수가 나옵니다.
+
 ### Vim 3가지 모드
 
 ![Vim 3가지 모드](https://velog.velcdn.com/images%2Flegendre13%2Fpost%2Ffdb123f1-7493-43fa-96ca-04c58b9ba9fd%2Fimage.png)
+
+### 막혔을때 나오는 방법
+Vim 사용하시다가 도저히 나가지 못할때는 `ESC` 연타하시고 `:q!` 치시면 이때 까지 수정한게 적용이 안되고 나가집니다.
 
 ### Vim Extra 유용한 Command
 
