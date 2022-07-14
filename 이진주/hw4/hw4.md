@@ -21,7 +21,7 @@
 - ! >> 빨간색(Some Alert)
 - ^ >> 노란색(Some stuff)
 - ? >> 파란색(Question)
-- "*" >> 초록색(Highlight)
+- /* >> 초록색(Highlight)
 - ~ >> 보라색(Arrow Funcion)
 - TODO >> 주황색 (TODO colorful)
 
