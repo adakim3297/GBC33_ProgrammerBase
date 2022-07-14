@@ -1,4 +1,4 @@
-## Vim
+# Vim
 <br/>
 
 ![vim_mode](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/vim_mode.png?raw=true)
