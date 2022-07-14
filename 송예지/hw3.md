@@ -1,7 +1,7 @@
 ## Vim
 <br/>
 
-![vim_mode](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HGU-Emblem-eng2.png/150px-HGU-Emblem-eng2.png)
+![vim_mode](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/vim_mode.png?raw=true)
 
 ### 1.  insert mode
 - [ESC] 클릭 후 일반모드로 전환하여 사용
