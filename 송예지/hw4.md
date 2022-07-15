@@ -132,3 +132,117 @@
     ![code_time_login](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_time_login.png?raw=true)
 
 > ★★★★★★★★☆☆
+
+<br/>
+<br/>
+
+### Vim
+
+- vscode에서 vim 기능을 할 수 있게 해주는 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![vim](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/vim.png?raw=true)
+
+> ★★★★★★★★☆☆
+
+<br/>
+<br/>
+
+### :emojisense:
+
+- 이모티콘 제안 및 자동완성을 해주는 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![emoji](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/emoji.png?raw=true)
+
+  - 결과
+
+    ![emoji_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/emoji_result.png?raw=true)
+
+> ★★★★★★★★★★
+
+<br/>
+<br/>
+
+### ErrorLens
+
+- 에러난 부분을 강조해주고 에러 메세지를 출력해주는 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![error](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/error.png?raw=true)
+
+  - 결과
+
+    ![error_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/error_result.png?raw=true)
+
+  > ★★★★★★★★★★
+
+<br/>
+<br/>
+
+### vscode-icons
+
+- vscode iocon을 보여주는 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![icons](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/icons.png?raw=true)
+
+  - 결과
+
+    ![icons_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/icons_result.png?raw=true)
+
+  > ★★★★★★★☆☆☆
+
+<br/>
+<br/>
+
+### Glassit-VSC
+
+- VSCode 화면이 투명해져서 보이는 효과의 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![vsc](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/vsc.png?raw=true)
+
+> ★★★★☆☆☆☆☆☆
+
+<br/>
+<br/>
+
+### Bracket Pair Colorization Toggler
+
+- 같은 layer에 있는 괄호들을 같은 색으로 매칭해주는 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![bracket_pair](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/bracket_pair.png?raw=true)
+
+  - 결과
+
+    ![bracket_pair_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/bracket_pair_result.png?raw=true)
+
+  > ★★★★★★★★★★
+
+<br/>
+<br/>
+
+### Todo-Tree
+
+- 변경해야 할 부분을 태그로 달아놓을 수 있게 해주는 Extension
+- 사용 방법
+
+  - 설치하기
+
+    ![todotree](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/todotree.png?raw=true)
+
+  > ★★★★★★★★★★
