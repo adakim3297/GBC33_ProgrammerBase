@@ -6,29 +6,42 @@
 - 사용 방법
 
   - 설치하기
+
+    <br/>
+
     ![prettier](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/prettier.png?raw=true)
 
   <br/>
 
   - 설정 들어가기
+
+    <br/>
+
     ![1](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/1.png?raw=true)
 
     <br/>
 
   - formatter 검색하기
+
+    <br/>
+
     ![2](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/2.png?raw=true)
 
     <br/>
 
   - 부분 변경, Editor:Default Formatter (Null -> Prettier - Code formatter)
+
+    <br/>
+
     ![3](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/3.png?raw=true)
 
     <br/>
 
   - 부분 변경, Editor: Format On. Save (Check)
-    ![4](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/4.png?raw=true)
 
-    <br/>
+      <br/>
+
+    ![4](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/4.png?raw=true)
 
 > ★★★★★★☆☆☆☆
 
@@ -41,16 +54,20 @@
 - 사용 방법
 
   - 설치하기
+
+    <br/>
+
     ![code_runner](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_runner.png?raw=true)
 
       <br/>
 
   - 실행하기 ( ▶ 클릭 )
+
+    <br/>
+
     ![code_runner_icon](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_runner_icon.png?raw=true)
 
     ![code_runner_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_runner_result.png?raw=true)
-
-<br/>
 
 > ★★★★★★★★★★
 
@@ -63,6 +80,9 @@
 - 사용 방법
 
   - 설치하기
+
+    <br/>
+
     ![stackOverflow](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/Stackoverflow_instant_search.png?raw=true)
 
   - cmd+shift+h Mac or ctrl+shift+h
@@ -80,11 +100,18 @@
 - 사용 방법
 
   - 설치하기
-    ![code_spell_checker](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_spell_checker.png?raw=true)
-  - 결과
-    ![code_spell_checker_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_spell_checker_result.png?raw=true)
 
     <br/>
+
+    ![code_spell_checker](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_spell_checker.png?raw=true)
+
+    <br/>
+
+  - 결과
+
+    <br/>
+
+    ![code_spell_checker_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_spell_checker_result.png?raw=true)
 
 > ★☆☆☆☆☆☆☆☆☆
 
@@ -97,12 +124,18 @@
 - 사용 방법
 
   - 설치하기
+
+    <br/>
+
     ![excel_viewer](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/excel_viewer.png?raw=true)
 
-  - 결과
-    ![excel_viewer_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/excel_viewer_result.png?raw=true)
+  <br/>
 
-<br/>
+  - 결과
+
+    <br/>
+
+    ![excel_viewer_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/excel_viewer_result.png?raw=true)
 
 > ★★★★☆☆☆☆☆☆
 
@@ -113,11 +146,19 @@
 
 - 코딩 시간을 알려주는 Extension
 - 사용 방법
-  - 설치하기
-    ![code_time](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_time.png?raw=true)
-  - login하기
-    ![code_time_login](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_time_login.png?raw=true)
 
-<br/>
+  - 설치하기
+
+    <br/>
+
+    ![code_time](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_time.png?raw=true)
+
+      <br/>
+
+  - login하기
+
+      <br/>
+
+    ![code_time_login](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_time_login.png?raw=true)
 
 > ★★★★★★★★☆☆
