@@ -87,8 +87,6 @@
 
     ![code_spell_checker](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_spell_checker.png?raw=true)
 
-    <br/>
-
   - 결과
 
     ![code_spell_checker_result](https://github.com/YYYEJI/GBC33_ProgrammerBase/blob/master/송예지/img/code_spell_checker_result.png?raw=true)
